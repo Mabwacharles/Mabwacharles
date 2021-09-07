@@ -12,3 +12,5 @@ I am a Talented Product Manager with experience developing and managing SaaS bas
 
 
 - [Facebook](https://www.facebook.com/allan.a.mabwa)
+
+- [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)

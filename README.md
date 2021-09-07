@@ -8,4 +8,4 @@ I am a Talented Product Manager with experience developing and managing SaaS bas
 - [LinkedIn](https://www.linkedin.com/in/charles-mabwa-621322a7/) || [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 
-- [Twitter](https://twitter.com/mabwacharles) || [Facebook](https://www.facebook.com/allan.a.mabwa)
+- [Twitter](https://twitter.com/mabwacharles)   || [Facebook](https://www.facebook.com/allan.a.mabwa)

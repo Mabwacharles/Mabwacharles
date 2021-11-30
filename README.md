@@ -5,9 +5,10 @@ I am a talented Product Manager with experience developing and managing SaaS bas
 
 📫 **Lets Connect**:
 
-- [LinkedIn](https://www.linkedin.com/in/charles-mabwa-621322a7/) || [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)
+- [LinkedIn](https://www.linkedin.com/in/charles-mabwa-621322a7/) 
 
+- [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
-- [Twitter](https://twitter.com/mabwacharles)     ||  [Facebook](https://www.facebook.com/allan.a.mabwa)
+- [Twitter](https://twitter.com/mabwacharles)
 
 - [Resume](https://mabwa.netlify.app/)

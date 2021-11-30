@@ -9,3 +9,5 @@ I am a talented Product Manager with experience developing and managing SaaS bas
 
 
 - [Twitter](https://twitter.com/mabwacharles)     ||  [Facebook](https://www.facebook.com/allan.a.mabwa)
+
+- [Resume](https://mabwa.netlify.app/)
